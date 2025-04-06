@@ -62,7 +62,14 @@ Redesign the existing skip selection page to:
 ## 🛠 How to Run
 
 1. Clone the repo:
-   ```bash
-   git clone <your-repo-url>
-   cd skip-selection-redesign
-   ```
+   git clone https://github.com/kingsholly/remwaste.git
+   cd remwaste
+
+2. Install dependencies:
+   npm install
+
+3. Run the development server:
+   npm run dev
+
+4. Visit the app in your browser:
+   http://localhost:3000
