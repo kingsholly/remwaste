@@ -7,7 +7,7 @@ const siteMetadata = {
     "A web app for selecting skip hire created with Next.js and Tailwind.css.",
   language: "en-us",
   theme: "system", // system, dark or light
-  siteUrl: "https://create-blog-with-nextjs.vercel.app", // your website URL
+  siteUrl: "https://remwastedesign.netlify.app", // your website URL
   siteLogo: "/character.png",
   socialBanner: "/social-banner.png", // add social banner in the public folder
   email: "Adesholatemitope@yahoo.com",
